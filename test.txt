@@ -2,3 +2,5 @@ gitです
 Gitですか
 .gitadd
 .gitcommitS
+
+add
