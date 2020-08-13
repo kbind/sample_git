@@ -4,3 +4,4 @@ Gitですか
 .gitcommitS
 
 add
+add2
