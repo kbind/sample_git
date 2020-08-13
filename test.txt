@@ -1,2 +1,4 @@
 gitです
 Gitですか
+.gitadd
+.gitcommitS
